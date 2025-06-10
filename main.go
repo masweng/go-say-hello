@@ -1,7 +1,7 @@
-package main
+package gosayhello
 
 import "fmt"
 
-func main(){
+func Hello(){
 	fmt.Println("Indonesia vs Jepang")
 }
